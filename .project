@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Hibernate-One-To-Many</name>
+	<name>Hibernate-eager-lazy-demo</name>
 	<comment></comment>
 	<projects>
 	</projects>
